@@ -1,0 +1,4 @@
+Seq_num,EmpID,EmpName,Sal,DeptNo,Ind,Start_Date,End_Date
+1,101,Rohith,1500,10,I,2019-08-06,9999-12-31
+2,102,Kumar,2000,20,I,2019-08-06,9999-12-31
+3,103,Pradeep,3000,30,I,2019-08-06,9999-12-31

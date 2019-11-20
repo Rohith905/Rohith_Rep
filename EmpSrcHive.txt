@@ -1,0 +1,3 @@
+EmpID,EmpName,DeptNo,Sal
+103,Pradeep,30,6000
+104,Mani,10,4000
